@@ -1,5 +1,17 @@
 # Awesome-EE
 Electronics Engineering equation sheets, technical references
+See the folder for my work!
+
+## Electronics 
+
+
+
+
+## Coding Related
+(Markdown)[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
+
+
+
 
 Shoot in a pull request if you have something to add!
 
