@@ -1,11 +1,5 @@
 # Awesome-EE
 Electronics Engineering equation sheets, technical references
-See the folder for my work!
-
-## Electronics 
-
-
-
 
 
 
